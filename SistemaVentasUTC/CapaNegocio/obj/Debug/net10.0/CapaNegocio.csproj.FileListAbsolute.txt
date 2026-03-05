@@ -1,0 +1,35 @@
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.deps.json
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNego.81B9D119.Up2Date
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\refint\CapaNegocio.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\ref\CapaNegocio.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.deps.json
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfo.cs
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.sourcelink.json
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNego.81B9D119.Up2Date
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\refint\CapaNegocio.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\ref\CapaNegocio.dll

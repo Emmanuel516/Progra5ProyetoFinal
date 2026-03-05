@@ -1,0 +1,136 @@
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.exe
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.deps.json
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ClosedXML.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ClosedXML.Parser.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ExcelNumberFormat.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\itextsharp.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\RBush.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.Runtime.Caching.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaDatos.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaEntidad.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaNegocio.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaEntidad.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaNegocio.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaDatos.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmClientes.resources
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmMenuPrincipal.resources
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmProductos.resources
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmReporteVentas.resources
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmVentas.resources
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\refint\CapaPresentacion.dll
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.pdb
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Bustamante Muñoz\source\repos\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\ref\CapaPresentacion.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.exe
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.deps.json
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaPresentacion.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\BouncyCastle.Cryptography.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ClosedXML.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ClosedXML.Parser.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ExcelNumberFormat.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Google.Protobuf.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\itextsharp.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Compression.LZ4.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\K4os.Hash.xxHash.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\MySql.Data.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\RBush.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\SixLabors.Fonts.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\System.Runtime.Caching.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\ZstdSharp.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaDatos.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaEntidad.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaNegocio.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaEntidad.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaNegocio.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\bin\Debug\net10.0-windows\CapaDatos.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmClientes.resources
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.frmMenuPrincipal.resources
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.sourcelink.json
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPres.61CA7C38.Up2Date
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\refint\CapaPresentacion.dll
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.pdb
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaPresentacion\obj\Debug\net10.0-windows\ref\CapaPresentacion.dll
