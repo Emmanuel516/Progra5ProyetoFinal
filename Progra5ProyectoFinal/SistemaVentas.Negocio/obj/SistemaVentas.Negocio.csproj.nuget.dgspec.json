@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj": {}
+    "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
+    "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
         "projectName": "SistemaVentas.Datos",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\obj\\",
+        "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj",
+        "packagesPath": "C:\\Users\\chehd\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj"
+              "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
+                "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -350,20 +350,20 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+    "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
         "projectName": "SistemaVentas.DTO",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\obj\\",
+        "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj",
+        "packagesPath": "C:\\Users\\chehd\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -390,7 +390,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -411,7 +411,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -689,20 +689,20 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
+    "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj",
         "projectName": "SistemaVentas.Entidades",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\obj\\",
+        "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj",
+        "packagesPath": "C:\\Users\\chehd\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -729,7 +729,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -750,7 +750,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1028,20 +1028,20 @@
         }
       }
     },
-    "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj": {
+    "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj",
         "projectName": "SistemaVentas.Negocio",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\obj\\",
+        "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\SistemaVentas.Negocio.csproj",
+        "packagesPath": "C:\\Users\\chehd\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Negocio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1056,14 +1056,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj"
+              "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj": {
+                "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Datos\\SistemaVentas.Datos.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
+              "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj": {
+                "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.DTO\\SistemaVentas.DTO.csproj"
               },
-              "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
-                "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj"
+              "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj": {
+                "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj"
               }
             }
           }
@@ -1078,7 +1078,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -1099,7 +1099,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

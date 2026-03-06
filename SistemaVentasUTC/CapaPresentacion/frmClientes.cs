@@ -139,14 +139,11 @@ namespace CapaPresentacion
 
         private void btnExportarPDF_Click(object sender, EventArgs e)
         {
-            // 1. Validar que la tabla de clientes tenga datos
             if (dgvClientes.Rows.Count < 1)
             {
                 MessageBox.Show("No hay datos en la tabla para exportar.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-
-            // 2. Elegir dónde guardar el PDF
             SaveFileDialog guardar = new SaveFileDialog();
             guardar.Filter = "PDF Files |*.pdf";
             guardar.FileName = "Reporte_Clientes.pdf";
@@ -155,18 +152,15 @@ namespace CapaPresentacion
             {
                 try
                 {
-                    // 3. Crear el documento PDF en formato horizontal
                     Document doc = new Document(PageSize.A4.Rotate(), 10, 10, 10, 10);
                     PdfWriter.GetInstance(doc, new FileStream(guardar.FileName, FileMode.Create));
                     doc.Open();
 
-                    // 4. Agregar un título al documento
                     doc.Add(new Paragraph("Reporte de Clientes Registrados\n\n"));
 
-                    // 5. Crear la tabla PDF midiendo las columnas de dgvClientes
+
                     PdfPTable tablaPdf = new PdfPTable(dgvClientes.Columns.Count);
 
-                    // Copiar los encabezados grises
                     foreach (DataGridViewColumn columna in dgvClientes.Columns)
                     {
                         PdfPCell celda = new PdfPCell(new Phrase(columna.HeaderText));
@@ -174,17 +168,13 @@ namespace CapaPresentacion
                         tablaPdf.AddCell(celda);
                     }
 
-                    // Copiar los datos de cada cliente fila por fila
                     foreach (DataGridViewRow fila in dgvClientes.Rows)
                     {
                         foreach (DataGridViewCell celda in fila.Cells)
                         {
-                            // Si la celda está vacía, pone un texto en blanco
                             tablaPdf.AddCell(celda.Value?.ToString() ?? "");
                         }
                     }
-
-                    // 6. Pegar la tabla en el documento y cerrarlo
                     doc.Add(tablaPdf);
                     doc.Close();
 

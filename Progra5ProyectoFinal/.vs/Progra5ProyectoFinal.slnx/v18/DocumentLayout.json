@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.entidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.entidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{144A69E2-67B2-46DB-BA2B-D187E36E7C54}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B9DEB58-4DD4-E674-BA3F-7BF82F0B40CD}|SistemaVentas.Entidades\\SistemaVentas.Entidades.csproj|solutionrelative:sistemaventas.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59FEC18F-B372-4473-A21F-DEC0EC4FE105}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.tests\\sistemaventas.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{59FEC18F-B372-4473-A21F-DEC0EC4FE105}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|solutionrelative:sistemaventas.tests\\sistemaventas.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5BFA198D-62AE-860E-0F6A-39633E03CF73}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.tests\\sistemaventas.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5BFA198D-62AE-860E-0F6A-39633E03CF73}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|solutionrelative:sistemaventas.tests\\sistemaventas.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02733AC6-2FCE-4BA5-BAEB-DC6AEA66CFE5}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\winformsapp1\\sistemaventas.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02733AC6-2FCE-4BA5-BAEB-DC6AEA66CFE5}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|solutionrelative:winformsapp1\\sistemaventas.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2611BBAD-1687-E648-02AE-599E52BECF02}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\winformsapp1\\sistemaventas.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2611BBAD-1687-E648-02AE-599E52BECF02}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|solutionrelative:winformsapp1\\sistemaventas.presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59FEC18F-B372-4473-A21F-DEC0EC4FE105}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\sistemaventas.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59FEC18F-B372-4473-A21F-DEC0EC4FE105}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|solutionrelative:sistemaventas.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5BFA198D-62AE-860E-0F6A-39633E03CF73}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|c:\\proyectos\\progra5proyetofinal\\progra5proyectofinal\\sistemaventas.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFA198D-62AE-860E-0F6A-39633E03CF73}|SistemaVentas.Tests\\SistemaVentas.Tests.csproj|solutionrelative:sistemaventas.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02733AC6-2FCE-4BA5-BAEB-DC6AEA66CFE5}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyectofinal\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02733AC6-2FCE-4BA5-BAEB-DC6AEA66CFE5}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2611BBAD-1687-E648-02AE-599E52BECF02}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2611BBAD-1687-E648-02AE-599E52BECF02}|WinFormsApp1\\SistemaVentas.Presentacion.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Usuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Usuario.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Entidades\\Usuario.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Usuario.cs",
               "RelativeToolTip": "SistemaVentas.Entidades\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,104 +65,96 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\DetalleVenta.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Entidades\\DetalleVenta.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\DetalleVenta.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\DetalleVenta.cs",
               "RelativeToolTip": "SistemaVentas.Entidades\\DetalleVenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:22:41.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:22:41.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Cliente.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Cliente.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Entidades\\Cliente.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Cliente.cs",
               "RelativeToolTip": "SistemaVentas.Entidades\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:21:53.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:21:53.786Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Venta.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Venta.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Entidades\\Venta.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Venta.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Venta.cs",
               "RelativeToolTip": "SistemaVentas.Entidades\\Venta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:21:13.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:21:13.421Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Producto.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Producto.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Entidades\\Producto.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Producto.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Entidades\\Producto.cs",
               "RelativeToolTip": "SistemaVentas.Entidades\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:20:11.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:20:11.658Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SistemaVentas.Tests",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
+              "Title": "SistemaVentas.Tests.csproj",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
               "RelativeDocumentMoniker": "SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
               "RelativeToolTip": "SistemaVentas.Tests\\SistemaVentas.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-21T04:10:27.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:10:27.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SistemaVentas.Presentacion",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\WinFormsApp1\\SistemaVentas.Presentacion.csproj",
+              "Title": "SistemaVentas.Presentacion.csproj",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\WinFormsApp1\\SistemaVentas.Presentacion.csproj",
               "RelativeDocumentMoniker": "WinFormsApp1\\SistemaVentas.Presentacion.csproj",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\WinFormsApp1\\SistemaVentas.Presentacion.csproj",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\WinFormsApp1\\SistemaVentas.Presentacion.csproj",
               "RelativeToolTip": "WinFormsApp1\\SistemaVentas.Presentacion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-21T04:08:47.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:08:47.56Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Tests\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "SistemaVentas.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\SistemaVentas.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\SistemaVentas.Tests\\UnitTest1.cs",
               "RelativeToolTip": "SistemaVentas.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T04:05:37.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-21T04:05:37.176Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\Progra5ProyectoFinal\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyectoFinal\\WinFormsApp1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T03:41:57.763Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-02-21T03:41:57.763Z"
             }
           ]
         }
