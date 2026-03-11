@@ -1,9 +1,0 @@
-<Solution>
-  <Project Path="SistemaVentas.Datos/SistemaVentas.Datos.csproj" />
-  <Project Path="SistemaVentas.DTO/SistemaVentas.DTO.csproj" />
-  <Project Path="SistemaVentas.Entidades/SistemaVentas.Entidades.csproj" />
-  <Project Path="SistemaVentas.Negocio/SistemaVentas.Negocio.csproj" />
-  <Project Path="SistemaVentas.Reportes/SistemaVentas.Reportes.csproj" />
-  <Project Path="SistemaVentas.Tests/SistemaVentas.Tests.csproj" />
-  <Project Path="WinFormsApp1/SistemaVentas.Presentacion.csproj" />
-</Solution>

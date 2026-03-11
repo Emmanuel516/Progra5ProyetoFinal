@@ -570,23 +570,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chehd\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\CapaDatos.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\CapaDatos.csproj",
       "projectName": "CapaDatos",
-      "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\CapaDatos.csproj",
-      "packagesPath": "C:\\Users\\chehd\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\obj\\",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\CapaDatos.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\chehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -601,8 +601,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\CapaEntidad.csproj": {
-              "projectPath": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\CapaEntidad.csproj"
+            "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\CapaEntidad.csproj": {
+              "projectPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\CapaEntidad.csproj"
             }
           }
         }
@@ -617,7 +617,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -644,7 +644,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

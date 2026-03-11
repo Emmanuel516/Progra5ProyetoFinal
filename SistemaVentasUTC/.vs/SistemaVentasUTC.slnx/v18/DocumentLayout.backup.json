@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B03B984-8886-49D8-A6EB-CCEDA918D67D}|PruebasSistema\\PruebasSistema.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\pruebassistema\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B03B984-8886-49D8-A6EB-CCEDA918D67D}|PruebasSistema\\PruebasSistema.csproj|solutionrelative:pruebassistema\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyetofinal\\sistemaventasutc\\capadatos\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B03B984-8886-49D8-A6EB-CCEDA918D67D}|PruebasSistema\\PruebasSistema.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\pruebassistema\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B03B984-8886-49D8-A6EB-CCEDA918D67D}|PruebasSistema\\PruebasSistema.csproj|solutionrelative:pruebassistema\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyetofinal\\sistemaventasutc\\capadatos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\iproductorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\capadatos\\conexionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5DF2A66-5DB4-CB30-1A48-5F5063E85AE2}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyetofinal\\sistemaventasutc\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5DF2A66-5DB4-CB30-1A48-5F5063E85AE2}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\capadatos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70CA901F-562B-85DE-CB5B-638070A6560A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\capapresentacion\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|c:\\proyectos\\progra5proyetofinal\\sistemaventasutc\\capapresentacion\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7E14951A-4306-A8D9-E487-421693679768}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\user\\onedrive\\escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\proyecto final\\progra5proyetofinal\\sistemaventasutc\\capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17DEA17B-F485-83F4-3975-7931B37919D8}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\PruebasSistema\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "PruebasSistema\\UnitTest1.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\PruebasSistema\\UnitTest1.cs*",
-              "RelativeToolTip": "PruebasSistema\\UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T01:02:40.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\PruebasSistema\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "PruebasSistema\\MSTestSettings.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\PruebasSistema\\MSTestSettings.cs*",
-              "RelativeToolTip": "PruebasSistema\\MSTestSettings.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ProductoRepository.cs",
+              "RelativeToolTip": "CapaDatos\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T01:02:37.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConexionFactory.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ConexionFactory.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\ConexionFactory.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ConexionFactory.cs",
-              "RelativeToolTip": "CapaDatos\\ConexionFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:56:52.146Z",
+              "WhenOpened": "2026-03-11T04:36:23.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ConexionDB.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\ConexionDB.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\ConexionDB.cs",
-              "RelativeToolTip": "CapaDatos\\ConexionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Title": "CN_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaNegocio\\CN_Producto.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Producto.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaNegocio\\CN_Producto.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:56:40.23Z",
+              "WhenOpened": "2026-03-11T04:14:24.801Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmMenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaPresentacion\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaPresentacion\\frmMenuPrincipal.cs",
-              "RelativeToolTip": "CapaPresentacion\\frmMenuPrincipal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaEntidad\\Producto.cs",
+              "RelativeToolTip": "CapaEntidad\\Producto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:53:44.906Z",
+              "WhenOpened": "2026-03-11T04:09:45.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaPresentacion\\frmMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "CapaPresentacion\\frmMenuPrincipal.cs",
-              "ToolTip": "C:\\Proyectos\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaPresentacion\\frmMenuPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaPresentacion\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "IProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\IProductoRepository.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\IProductoRepository.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Escritorio\\ingenieria en sistemas\\6to cuatri\\progra 5\\Proyecto Final\\Progra5ProyetoFinal\\SistemaVentasUTC\\CapaDatos\\IProductoRepository.cs",
+              "RelativeToolTip": "CapaDatos\\IProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T00:53:24.551Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2026-03-05T03:56:33.578Z",
+              "EditorCaption": ""
             }
           ]
         }

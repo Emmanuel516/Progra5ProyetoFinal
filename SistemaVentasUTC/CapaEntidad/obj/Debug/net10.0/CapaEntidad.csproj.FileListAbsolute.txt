@@ -21,3 +21,15 @@ C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\refint\CapaEntidad.dll
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.pdb
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\ref\CapaEntidad.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\bin\Debug\net10.0\CapaEntidad.deps.json
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\bin\Debug\net10.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\bin\Debug\net10.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\refint\CapaEntidad.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaEntidad\obj\Debug\net10.0\ref\CapaEntidad.dll

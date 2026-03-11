@@ -33,3 +33,21 @@ C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\refint\CapaNegocio.dll
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.pdb
 C:\Proyectos\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\ref\CapaNegocio.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.deps.json
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaDatos.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\bin\Debug\net10.0\CapaEntidad.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.sourcelink.json
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNego.81B9D119.Up2Date
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\refint\CapaNegocio.dll
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\CapaNegocio.pdb
+C:\Users\User\OneDrive\Escritorio\ingenieria en sistemas\6to cuatri\progra 5\Proyecto Final\Progra5ProyetoFinal\SistemaVentasUTC\CapaNegocio\obj\Debug\net10.0\ref\CapaNegocio.dll
